@@ -40,7 +40,7 @@ console.log = function (...args) {
   { addr: "wss://play.monacoeducation.info", name: "Dylanmc Lifesteal Anarchy+Skyblock+Bedwars(lwkey buns)" },
   
   { addr: "wss://powerschool.riversideacademy.site", name: "Complexity Network" },
-  { addr: "wss:/eaglercraft.cc", name: "Better Complexity Network" },		
+  { addr: "wss://eaglercraft.cc", name: "Better Complexity Network" },		
 
 ];
             this._eaglercraftXOpts = value;
